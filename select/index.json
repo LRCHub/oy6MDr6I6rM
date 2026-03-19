@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ブレーメン",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-02-07T15:50:21.299101Z",
+  "createdAt": "2026-03-19T06:57:03.038885Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,6 +83,24 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_ブレーメン_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ブレーメン",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_ブレーメン_ヨルシカ.lrc",
+      "repo_name": "oy6MDr6I6rM"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ブレーメン",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_02_ブレーメン_ヨルシカ.lrc",
+      "repo_name": "OllXnVVODVM"
     }
   ]
 }
