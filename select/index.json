@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ブレーメン",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-21T01:29:46.960891Z",
+  "createdAt": "2026-04-05T07:51:22.209853Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -17,8 +17,8 @@
       "source": "lrclib",
       "title": "ブレーメン",
       "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/02_ブレーメン_ヨルシカ.lrc"
+      "has_synced": false,
+      "path": "select/02_ブレーメン_ヨルシカ.txt"
     },
     {
       "id": "lrclib_3",
@@ -63,18 +63,26 @@
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "ブレーメン; bremen",
-      "artist": "Yorushika",
+      "title": "ブレーメン",
+      "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/08_ブレーメン;_bremen_Yorushika.lrc"
+      "path": "select/08_ブレーメン_ヨルシカ.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
+      "title": "ブレーメン; bremen",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/09_ブレーメン;_bremen_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
       "title": "ブレーメン - Bremen",
       "artist": "BAK",
       "has_synced": true,
-      "path": "select/09_ブレーメン_-_Bremen_BAK.lrc"
+      "path": "select/10_ブレーメン_-_Bremen_BAK.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -91,7 +99,7 @@
       "artist": "ヨルシカ",
       "has_synced": true,
       "path": "select/localdb_01_ブレーメン_ヨルシカ.lrc",
-      "repo_name": "oy6MDr6I6rM"
+      "repo_name": "OllXnVVODVM"
     },
     {
       "id": "localdb_2",
@@ -100,7 +108,7 @@
       "artist": "ヨルシカ",
       "has_synced": true,
       "path": "select/localdb_02_ブレーメン_ヨルシカ.lrc",
-      "repo_name": "OllXnVVODVM"
+      "repo_name": "oy6MDr6I6rM"
     }
   ]
 }
